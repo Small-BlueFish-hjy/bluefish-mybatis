@@ -7,6 +7,10 @@
     <groupId>org.example</groupId>
     <artifactId>bluefish_mybatis</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>bf-mybatis-00</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
